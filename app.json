@@ -6,7 +6,7 @@
   "success_url": "/",
 
   "env": {
-    "BOT_NUMBER": {
+    "BOT_NUMBER": {94774559205
       "description": "Put the number here.",
       "required": true
     },  
@@ -16,7 +16,7 @@
       "required": true
     },
 
-    "SESSION_ID": {
+    "SESSION_ID": {PRABATH-MD~QzkGxISD#sjprJqCAZAx9x-enzS9uOaxxWK_BitpyIZHNkoWsOtM
       "description": "Enter session-id here",
       "required": false
     },
