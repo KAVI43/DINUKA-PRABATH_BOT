@@ -6,7 +6,7 @@
   "success_url": "/",
 
   "env": {
-    "BOT_NUMBER": {94774559205
+    "BOT_NUMBER": {"94774559205"
       "description": "Put the number here.",
       "required": true
     },  
